@@ -1,4 +1,4 @@
-# Desafío Técnico - Procesamiento de Matrices y Estadísticas
+# Procesamiento de Matrices y Estadísticas
 
 Sistema distribuido full-stack para el procesamiento matemático de matrices y cálculo estadístico. Construido bajo **Clean Architecture**, comunicación entre servicios restringida con **JWT** y orquestación local vía **Docker Compose**.
 
